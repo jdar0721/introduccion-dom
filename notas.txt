@@ -15,3 +15,15 @@ Patrones de diseño:
 SOLID, Hexagonal, TDD, DDD, MVC
 
 MVC: Model- View- Controller 
+
+
+DOS TIPOS DE SELECTORES: 
+
+getElement: Tenemos diferentes variaciones
+- getElementById -> Selecciona elemento por un id 
+- getElementByClassName -> Selecciona elementos por clase 
+- getElementByTagName  -> Selecciona elementos por nombre de etiqueta 
+
+querySelector   : Tenemops diferentes variaciones
+- querySelector -> Permite seleccionar por id, por clase y por etiqueta 
+- querySelectorAll -> Permite seleccionar por id, por clase y por etiqueta 

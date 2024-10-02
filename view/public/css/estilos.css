@@ -1,7 +1,7 @@
 *{
     padding: 0%;
     margin: 0;
-    box-sizing: border-box;  /* Los elementos  se van a separar segun el borde del contenido*/
+    box-sizing: border-box;  
 }
 
 body{
@@ -39,7 +39,7 @@ body{
     outline: none;
     height: 30px;
     border-radius: 10px;
-    /* text-transform: uppercase;  siempre este en mayuscula*/
+
 }
 .form button{
     width: 40%;
@@ -49,3 +49,4 @@ body{
     border: none;
     border-radius: 10px;
 }
+
