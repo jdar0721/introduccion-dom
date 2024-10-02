@@ -1,0 +1,17 @@
+DOM: Document - Object - Model
+(Modelo de objeto de documento)
+
+clase: plantilla de contenido que define una funcionalidad para sus herederos 
+Padre que da ejemplo a sus hijos 
+
+DOM (API)- Es un canal de comunicación entre el navegador (HTML)y JavaScript (API: Interfaz de programación de aplicaciones)
+
+
+index.html 
+estilos.css
+script.js 
+
+Patrones de diseño: 
+SOLID, Hexagonal, TDD, DDD, MVC
+
+MVC: Model- View- Controller 
